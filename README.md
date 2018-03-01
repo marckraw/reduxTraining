@@ -1,0 +1,2 @@
+# reduxTraining
+Redux, ngrx training
